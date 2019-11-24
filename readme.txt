@@ -6,5 +6,5 @@ python3 dep_parser.py << path to .conllu data >> << path to Stanford Parser Fold
 For parse_sentence:
 python parse_sentence.py
 
-For sentence_completion : 
-python3 sentence_completion.py
+For sentence completion : 
+python3 complete_sentence.py

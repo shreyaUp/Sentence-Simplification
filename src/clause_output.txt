@@ -1,0 +1,4 @@
+Input Sentence: They were given a box which was blue in color.
+Clause1: ///root They were given a box which was blue in color
+
+

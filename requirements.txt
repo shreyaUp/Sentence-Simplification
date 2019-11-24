@@ -1,0 +1,13 @@
+
+Code in Python 3.x
+
+Library Requirements
+1. sys
+2. os
+3. nltk (StanfordDependencyParser)
+4. subprocess 
+5. parse
+
+External Requirements : STANFORD DEPENDENCY PARSER
+Download from here: https://nlp.stanford.edu/software/lex-parser.shtml
+Location : In the same directory as the code

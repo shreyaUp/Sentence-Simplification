@@ -1,6 +1,8 @@
 # Sentence-Simplification ( Python3.x implementation)
 ## Course Project for Natural Language Processing (CSE 472)
-### Team Linguists
+### *Team Linguists*
+
+## Problem Statement
 Complex sentences create difficulties in Machine translation. It has been noticed that whenever there are more than two clauses (verbs), the translated Hindi sentence 
 shows implications in fluency and faithfulness.This project deals with :
 1) Identifying English sentences with more than two clauses. 

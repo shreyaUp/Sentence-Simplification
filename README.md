@@ -38,5 +38,5 @@ Splits the sentences according to clause and attempts to form complete sentences
 ## Running the code
 1. Clone the github repo
 2. Download the stanford dependency parserfor python from https://nlp.stanford.edu/software/lex-parser.shtml
-3. First run -> python3 dep_parser.py <<path to the dataset>> <<path to the unzipped stanford parser folder>>
+3. First run -> python3 dep_parser.py {path to the dataset} {path to the unzipped stanford parser folder}
 4. Then run this -> python3 complete_sentence.py

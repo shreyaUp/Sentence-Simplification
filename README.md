@@ -17,15 +17,6 @@ Token Count: 204607
 Dependency Relations: 378 ( 341=POS tag based, 37=(category, value) feature pairs)
 Sentences with more than 2 clauses: 3604
 
-## Clause Relations 
-The following clause relations are catered to by our code:
-1. Parataxis: Phrases and clauses are placed one after another independently, without coordinating or subordinating them through the use of conjunctions.
-2. advcl: An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement.
-3. CC: A cc is the relation between a conjunct and a preceding coordinating conjunction.
-4. acl: acl stands for finite and non-finite clauses that modify a nominal.
-5. acl:relcl: A relative clause modifier of an noun is a relative clause modifying the noun.
-6. ccomp: A clausal complement of a verb or adjective is a dependent clause with an internal subject which functions like an object of the verb or adjective.
-
 ## Code Components
 1. dep_parser.py
 Creates the following files:
